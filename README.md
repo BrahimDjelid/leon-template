@@ -2,7 +2,7 @@
 A modern and responsive HTML & CSS template.
 
 ## 🚀 Demo
-👉 [Live Preview](https://brahimdjelid.github.io/html_and_css_template1/)
+👉 [Live Preview](https://brahimdjelid.github.io/leon-template/)
 
 ## Project Overview
 This is a responsive one-page website implementation based on the **Leon** PSD template designed by [Graphberry](https://www.graphberry.com/). The original design was converted to a fully functional website using modern web technologies.
